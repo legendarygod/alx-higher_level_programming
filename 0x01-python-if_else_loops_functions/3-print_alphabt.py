@@ -1,4 +1,4 @@
-#!/usr/bin/pyhton3
-for lower in range(97, 123):
-    if lower not in [101, 113]:
-        print("{}".format(chr(lower)), end="")
+#!/usr/bin/python3
+for ch in range(97, 123):
+    if ch != 101 and ch != 113:
+        print("{:c}".format(ch), end='')
