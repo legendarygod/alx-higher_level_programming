@@ -1,0 +1,1 @@
+lfg, more data structures including sets and dictionaries. bummer, because neither "set" nor "dictionaries" sound funny.
